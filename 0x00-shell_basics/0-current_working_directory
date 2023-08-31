@@ -1,5 +1,3 @@
 #!/bin/bash
 pwd
-select 0-current_working_directory in ; do
-    $0-current_working_directory
-done
+
